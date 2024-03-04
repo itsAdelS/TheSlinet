@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="jsm_theslinet"
+      uploadPreset="JSM_TheSlinet"
       options={{
         multiple: false,
         resourceType: "image",
